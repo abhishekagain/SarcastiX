@@ -1,8 +1,4 @@
 mkdir : A positional parameter cannot be found that accepts argument 
-'C:\Users\LENOVO\Desktop\ProjectHackDU\static'.
-At line:1 char:1
-+ mkdir "C:\Users\LENOVO\Desktop\ProjectHackDU" "C:\Users\LENOVO\Deskto ...
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : InvalidArgument: (:) [mkdir], ParameterBindingException
     + FullyQualifiedErrorId : PositionalParameterNotFound,mkdir
  
